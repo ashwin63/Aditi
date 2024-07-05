@@ -1,4 +1,4 @@
-<b> BILLING SOFTWARE FOR DIFFERENTLY-ABLED</b><br><br>
+<b> ADITI - BILLING SOFTWARE FOR DIFFERENTLY-ABLED</b><br><br>
 The software is designed for differently-abled in such a way that the entire software doesnt require keyboard and can be used with left mouse click alone. The images of the products are also displayed for billing and audio is played for them to hear and choose the right option.
 
 
@@ -7,7 +7,7 @@ The software is designed for differently-abled in such a way that the entire sof
 <p>Windows with jdk version 1.8.0_171
  </p>
 
-<b> Steps </b> 
+<b> Steps to try it for yourself </b> 
 1. Download the setup.exe file and run the exe file
    (installer installs tomcat, and required files etc. Then the software is installed ) 
 2. Tick the check box for creating desktop icon in the dialog box that appears during installation procedure.
@@ -39,3 +39,9 @@ The software is designed for differently-abled in such a way that the entire sof
   6. In the next page, selected products and their quantity, price etc are displayed. 'Add' button is clicked to add another product. 'Remove' button to remove a product from selected products. 'Cancel' button to cancel the current billing process. Once all the products are selected, 'Submit' button is clicked.
   7. The received amount from the buyer, is entered and then submitted.
   8. The last page displays all the selected products, their quantity, rate, price and total price. 'Print' button is selected to print the bill. 'Cancel' to cancel the current process. 'Home' to complete this billing process and go back to home page.
+
+Tech utilized: HTML, JSP, JQuery, CSS, SQL, Apache Tomcat Server.
+
+
+Note: This project is done in collaboration with Anna University College of Engineering Guindy IST department and NGO Vidhyasagar under the guidance of Professor Dr. Bama as a part of Summer internship 2018.
+This was built as a web application, however we have provided the means for the NGO to easily utilize this as a desktop application using Tomcat server. The application is built to be easily scalable into a completely distributed web application keeping in mind of distributed systems issus and concurrency handling.
