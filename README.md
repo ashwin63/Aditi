@@ -43,5 +43,5 @@ The software is designed for differently-abled in such a way that the entire sof
 Tech utilized: HTML, JSP, JQuery, CSS, SQL, Apache Tomcat Server.
 
 
-Note: This project is done in collaboration with Anna University College of Engineering Guindy IST department and NGO Vidhyasagar under the guidance of Professor Dr. Bama as a part of Summer internship 2018.
+Note: This project is done in collaboration with Anna University College of Engineering Guindy IST department and NGO Vidhyasagar under the guidance of Professor Dr. Bama as a part of Summer internship 2018 as a part of initiative 'Computing for everyone'.
 This was built as a web application, however we have provided the means for the NGO to easily utilize this as a desktop application using Tomcat server. The application is built to be easily scalable into a completely distributed web application keeping in mind of distributed systems issus and concurrency handling.
